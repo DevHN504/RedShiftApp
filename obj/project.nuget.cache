@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4Spp9P0rDk8FQJSfcevDdn/d5BHMoKfnMYftVhMe9poPHjV6r+spX5zmo8h3xu5YPJ90zK+dBJ0Z7dzdrXa3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\RedShiftApp\\RedShiftApp\\RedShiftApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
